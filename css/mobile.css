@@ -1,0 +1,33 @@
+@media only screen and (max-width: 376px){
+    main{
+        width: 175px;
+        height: 262.5px;
+        border-radius: 10px;
+    }
+
+    /* QR Image */
+    img{
+        width: 150px;
+        height: 150px;
+        margin-top: 15px;
+        border-radius: 10px;
+    }
+
+    /* Headings */
+    .bottom{
+        gap: 10px;
+    }
+
+    /* Top heading */
+    h1{
+        padding: 0px 13px 0px 13px;
+        font-size: 0.75rem;
+    }
+
+    /* Secondary heading */
+    h2{
+        padding: 0px 13px 0px 13px;
+        font-size: 0.57rem;
+        line-height: 10px;
+    }
+}
